@@ -68,7 +68,6 @@ Scanner sc = new Scanner(System.in); // Create a Scanner object
     //System.out.println("Enter Balance");
    
    
-   
     //balance = 8000;
    // System.out.println("Enter How much money you want to deposit: ");
     System.out.println("Account Created Successfully");
@@ -145,7 +144,6 @@ public static void main(String[] args)
     System.out.println("BANK MANAGEMENT SYSTEM");
    
    
-
     System.out.println("\n1) Open account \n");
      
     // Calling open_account() method
